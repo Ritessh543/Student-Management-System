@@ -15,9 +15,9 @@ Student Management System using Spring boot a comprehensive system to manage stu
 ## Screenshots
 
 
-![Screenshots](SMS/1.png)
-![Screenshots](SMS/2.png)
-![Screenshots](SMS/4.png)
+![Screenshots](Screenshots/1.png)
+![Screenshots](Screenshots/2.png)
+![Screenshots](Screenshots/4.png)
 
 ## Installation
 
